@@ -56,7 +56,7 @@ I'm an aspiring data scientist, using this project to develop and demonstrate sk
 
 ## 📸 Preview
 
-![Amazon Sales Analysis Dashboard]
+[Amazon Sales Analysis Dashboard]
 ![Screenshot (583)](https://github.com/user-attachments/assets/69d85f5b-69ba-4772-bb33-f23ad8b45a1b)
 
 ---
